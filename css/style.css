@@ -28,3 +28,16 @@ main {
 .titolo-foto{
     font-size: 10px;
 }
+
+th{
+    background-color: blue;
+    color: white;
+}
+
+.azzurro{
+    background-color: lightblue;
+}
+
+.giallo{
+    background-color: yellow;
+}
