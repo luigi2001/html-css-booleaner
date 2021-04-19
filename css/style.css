@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
 }
@@ -13,4 +14,17 @@ header{
     background-image: url(../img/pattern.png);
     background-position: center;
     background-color: lightblue;
+}
+
+main {
+    margin: 15px;
+}
+
+.sottotitolo{
+    font-size: 10px;
+    color: lightgray;
+}
+
+.titolo-foto{
+    font-size: 10px;
 }
