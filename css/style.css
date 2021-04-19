@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+#logo{
+    width: 200px;
+    height: 50px;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-image: url(../img/pattern.png);
+    background-position: center;
+    background-color: lightblue;
+}
